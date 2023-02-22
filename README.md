@@ -175,7 +175,7 @@ y = gfx.MathUtils.rescale(x, xmin, xmax, ymin, ymax);
 
 Graded out of 20 points. 
 
-**Part 1: Creating the Flat Map Mesh ** 
+**Part 1: Creating the Flat Map Mesh** 
 
 - Flat map vertices computed correctly (2)
 - Flat map normals computed correctly (2)
